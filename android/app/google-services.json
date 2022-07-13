@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986764909617",
+    "project_id": "lifebookz1",
+    "storage_bucket": "lifebookz1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986764909617:android:46d20103950a3cc27ac910",
+        "android_client_info": {
+          "package_name": "com.life_bookz_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986764909617-0jp1o4ch6kf9apeksd5mua2b91tbi2tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.life_bookz_1",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "986764909617-rhoccsf1rmib8pk4dqcrvovpl6esme07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.life_bookz_1",
+            "certificate_hash": "a8ec2aa9791de3d780a3c6d8f86e08acd6145e47"
+          }
+        },
+        {
+          "client_id": "986764909617-uodmk6b6l03rkhaaq1rfnvuvfau60p98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOZ9s9umFZhtJqrL03iB5cBH4pmEl_s3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986764909617-uodmk6b6l03rkhaaq1rfnvuvfau60p98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
